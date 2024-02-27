@@ -1,5 +1,5 @@
 
-let registrationCount = 0;
+let registrationCount = 4;
 
 function register() {
     registrationCount++;
